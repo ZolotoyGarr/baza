@@ -54,9 +54,6 @@ button::-moz-focus-inner {
 
 a, a:visited {
   text-decoration: none;
-}
-
-a:visited {
   color: inherit;
 }
 
